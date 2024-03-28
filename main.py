@@ -19,7 +19,6 @@ def generate_press_release(notes):
     Write a detailed press release for Igus based on the following announcement notes:
     {notes}
 
-    WRITE ONLY  SMALL PARAGRAPHS!
     Ensure the press release is comprehensive, highlights key achievements, incorporates Igus's goals, and is engaging for the reader.
     """
     try:
